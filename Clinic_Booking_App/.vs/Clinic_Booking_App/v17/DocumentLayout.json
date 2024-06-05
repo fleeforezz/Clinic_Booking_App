@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Pc_Stuff\\Github_Landing\\Clinic_Booking_App\\Clinic_Booking_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F768F2A-7B64-4204-A96B-A72F06C50862}|Clinic.Data\\Clinic.Data.csproj|d:\\pc_stuff\\github_landing\\clinic_booking_app\\clinic_booking_app\\clinic.data\\models\\clinic_booking_app_databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F768F2A-7B64-4204-A96B-A72F06C50862}|Clinic.Data\\Clinic.Data.csproj|solutionrelative:clinic.data\\models\\clinic_booking_app_databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93E381D0-67CD-4E09-83B4-11349E025C6D}|Clinic.WpfApp\\Clinic.WpfApp.csproj|d:\\pc_stuff\\github_landing\\clinic_booking_app\\clinic_booking_app\\clinic.wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E381D0-67CD-4E09-83B4-11349E025C6D}|Clinic.WpfApp\\Clinic.WpfApp.csproj|solutionrelative:clinic.wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E381D0-67CD-4E09-83B4-11349E025C6D}|Clinic.WpfApp\\Clinic.WpfApp.csproj|d:\\pc_stuff\\github_landing\\clinic_booking_app\\clinic_booking_app\\clinic.wpfapp\\ui\\wappointmentdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E381D0-67CD-4E09-83B4-11349E025C6D}|Clinic.WpfApp\\Clinic.WpfApp.csproj|solutionrelative:clinic.wpfapp\\ui\\wappointmentdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 205,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WAppointmentDetail.xaml.cs",
+              "DocumentMoniker": "D:\\Pc_Stuff\\Github_Landing\\Clinic_Booking_App\\Clinic_Booking_App\\Clinic.WpfApp\\UI\\WAppointmentDetail.xaml.cs",
+              "RelativeDocumentMoniker": "Clinic.WpfApp\\UI\\WAppointmentDetail.xaml.cs",
+              "ToolTip": "D:\\Pc_Stuff\\Github_Landing\\Clinic_Booking_App\\Clinic_Booking_App\\Clinic.WpfApp\\UI\\WAppointmentDetail.xaml.cs",
+              "RelativeToolTip": "Clinic.WpfApp\\UI\\WAppointmentDetail.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:55:03.823Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -23,14 +40,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Clinic_Booking_App_DatabaseContext.cs",
-              "DocumentMoniker": "D:\\Pc_Stuff\\Github_Landing\\Clinic_Booking_App\\Clinic_Booking_App\\Clinic.Data\\Models\\Clinic_Booking_App_DatabaseContext.cs",
-              "RelativeDocumentMoniker": "Clinic.Data\\Models\\Clinic_Booking_App_DatabaseContext.cs",
-              "ToolTip": "D:\\Pc_Stuff\\Github_Landing\\Clinic_Booking_App\\Clinic_Booking_App\\Clinic.Data\\Models\\Clinic_Booking_App_DatabaseContext.cs",
-              "RelativeToolTip": "Clinic.Data\\Models\\Clinic_Booking_App_DatabaseContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAwAAAA",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Pc_Stuff\\Github_Landing\\Clinic_Booking_App\\Clinic_Booking_App\\Clinic.WpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Clinic.WpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Pc_Stuff\\Github_Landing\\Clinic_Booking_App\\Clinic_Booking_App\\Clinic.WpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Clinic.WpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T08:14:46.041Z",
+              "WhenOpened": "2024-06-05T08:52:37.857Z",
               "EditorCaption": ""
             }
           ]
